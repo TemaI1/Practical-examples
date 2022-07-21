@@ -1,0 +1,15 @@
+C:\Users\May\Desktop\Programming\Пакет Разработчик\Знакомство с языками программирования\Practical examples\Practical002\bin\Debug\net6.0\Practical002.exe
+C:\Users\May\Desktop\Programming\Пакет Разработчик\Знакомство с языками программирования\Practical examples\Practical002\bin\Debug\net6.0\Practical002.deps.json
+C:\Users\May\Desktop\Programming\Пакет Разработчик\Знакомство с языками программирования\Practical examples\Practical002\bin\Debug\net6.0\Practical002.runtimeconfig.json
+C:\Users\May\Desktop\Programming\Пакет Разработчик\Знакомство с языками программирования\Practical examples\Practical002\bin\Debug\net6.0\Practical002.dll
+C:\Users\May\Desktop\Programming\Пакет Разработчик\Знакомство с языками программирования\Practical examples\Practical002\bin\Debug\net6.0\Practical002.pdb
+C:\Users\May\Desktop\Programming\Пакет Разработчик\Знакомство с языками программирования\Practical examples\Practical002\obj\Debug\net6.0\Practical002.csproj.AssemblyReference.cache
+C:\Users\May\Desktop\Programming\Пакет Разработчик\Знакомство с языками программирования\Practical examples\Practical002\obj\Debug\net6.0\Practical002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\May\Desktop\Programming\Пакет Разработчик\Знакомство с языками программирования\Practical examples\Practical002\obj\Debug\net6.0\Practical002.AssemblyInfoInputs.cache
+C:\Users\May\Desktop\Programming\Пакет Разработчик\Знакомство с языками программирования\Practical examples\Practical002\obj\Debug\net6.0\Practical002.AssemblyInfo.cs
+C:\Users\May\Desktop\Programming\Пакет Разработчик\Знакомство с языками программирования\Practical examples\Practical002\obj\Debug\net6.0\Practical002.csproj.CoreCompileInputs.cache
+C:\Users\May\Desktop\Programming\Пакет Разработчик\Знакомство с языками программирования\Practical examples\Practical002\obj\Debug\net6.0\Practical002.dll
+C:\Users\May\Desktop\Programming\Пакет Разработчик\Знакомство с языками программирования\Practical examples\Practical002\obj\Debug\net6.0\refint\Practical002.dll
+C:\Users\May\Desktop\Programming\Пакет Разработчик\Знакомство с языками программирования\Practical examples\Practical002\obj\Debug\net6.0\Practical002.pdb
+C:\Users\May\Desktop\Programming\Пакет Разработчик\Знакомство с языками программирования\Practical examples\Practical002\obj\Debug\net6.0\Practical002.genruntimeconfig.cache
+C:\Users\May\Desktop\Programming\Пакет Разработчик\Знакомство с языками программирования\Practical examples\Practical002\obj\Debug\net6.0\ref\Practical002.dll
