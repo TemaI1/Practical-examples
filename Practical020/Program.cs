@@ -13,13 +13,10 @@ for(int i = 0; i < 4; i++){
     array[i] = new Random().Next(-99, 100);
     Console.Write($"{array[i]} ");
 
-    if(array[i] == array[1]){
+    if(array[i] == array[1] || array[i] == array[3]){
         sum += array[i];
     }
 
-    if(array[i] == array[3]){
-        sum += array[i];
-    }
 }
 
 Console.WriteLine($"-> {sum}");
