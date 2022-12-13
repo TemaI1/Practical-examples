@@ -8,6 +8,27 @@
 Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6;
 */
 
+/*
+int m = 3;
+int n = 4;
+double sum1column = 0;
+double[,] array = new double[m,n];
+string result = "";
+
+for(int i = 0; i < m; i++){
+    sum1column = 0;
+    for(int j = 0; j < n; j++){
+        array[i, j] = new Random().Next(0, 10);
+        Console.Write($"{array[i, j]} ");
+        sum1column = sum1column + array[i, j];
+    }
+    result += string.Format("{0:f1} ", sum1column/m);
+    Console.Write($"\n");
+}
+
+Console.WriteLine($"Среднее арифметическое каждого столбца: {result}");
+*/
+
 int m = 3;
 int n = 4;
 double sum1column = 0;
